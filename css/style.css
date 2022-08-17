@@ -1,0 +1,31 @@
+/* header section starts from here  */
+
+.logo-text-main{
+    font-size: 28px;
+    font-weight: bold;
+}
+.logo-text{
+    font-size: 28px !important;
+    color: #FE5000 !important;
+    font-weight: bold;
+}
+
+.login-btn a{
+    text-decoration: none;
+    color: #695D57;
+    font-size: 16px;
+}
+.signup-btn a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #FE5000;
+    padding: 15px 20px;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+
